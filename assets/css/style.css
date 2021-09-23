@@ -4,9 +4,13 @@
     margin: 0;
 }
 
+/* Set background color for page */
+
 body {
     background-color: #d9dcd6;
 }
+
+/* Set the font, color, background color and amount of space around the heading */
 
 .header {
     padding: 20px;
@@ -14,6 +18,8 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
+
+
 
 .header h1 {
     display: inline-block;
