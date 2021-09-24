@@ -9,4 +9,4 @@ has also been updated to improve accessibility.
 The web address for the is 
 https://sthompsonchicago.github.io/homework-1-code-refactoring/#social-media-marketing
 
-An image of the website is shown below. ./assets/images/Horiseon-Marketing.png
+An image of the website is shown below. ![Image of webpage](./assets/images/Horiseon-Marketing.png)
