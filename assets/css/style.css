@@ -42,19 +42,27 @@ body {
     font-size: 20px;
 }
 
+/* set sytle for items on services list on top right of page */
+
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
+/* Set style for links */
 
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Style for paragraphs */
+
 p {
     font-size: 16px;
 }
+
+/* Style for top background image */
 
 .hero {
     height: 800px;
@@ -64,6 +72,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* Arrangement of objects on page */
 
 .float-left {
     float: left;
@@ -80,6 +90,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Style fro list of benefits on lower-right-hand side */
 
 .benefits {
     margin-right: 20px;
@@ -110,6 +122,8 @@ p {
 }
 
 
+/* Style for list of services on lower left-hand side */
+
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -127,6 +141,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Style for footer */
 
 .footer {
     padding: 30px;
